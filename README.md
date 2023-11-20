@@ -4,4 +4,4 @@ General Number Theory.
 
 
 ### Multiplicative Inverses:
-Given $\mathbb{z}/n\mathbb{z}$, what are n's multiplicative inverses?
+Units of Ring $\mathbb{z}/n\mathbb{z}$ for any $n\in\mathbb{z}$
