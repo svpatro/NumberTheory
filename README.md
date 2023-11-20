@@ -14,6 +14,14 @@ To create the binary for a program, run `make *` where `*` is the name of the pr
 
 This program will ask you to input 2 sets of numbers and will return the corresponding Cayley Table.
 
+### Coset Multiplier
+
+This program will ask you to input n for integers modulo n, a set of numbers (H) for the original coset, the amount of cosets being multiplied (A), and the coefficient of each coset (C). The program will return the set of integers modulo n, the original coset, the multiplied cosets (modulo n), and the non-distinct equivalent cosets.
+
+### Lagrange's Theorem
+
+This program will ask you to input the order of group G and return all potential orders of subgroups.
+
 ### Multiplicative Inverses
 
 This program will ask you to input n for integers modulo n and return all multiplicative inverses of n.

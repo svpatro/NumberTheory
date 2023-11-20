@@ -1,11 +1,11 @@
 CayleyTable:
-	g++ ./Programs/CayleyTable.cpp -o ct 
+	g++ ./Programs/CayleyTable.cpp -o ./ct 
 
 MultiplicativeInverses:
-	g++ ./Programs/MultiplicativeInverses.cpp -o ../mi
+	g++ ./Programs/MultiplicativeInverses.cpp -o ./mi
 
 SubgroupCheck:
-	g++ ./Programs/SubgroupCheck.cpp -o ../sc
+	g++ ./Programs/SubgroupCheck.cpp -o ./sc
 
 QuotientGroup: 
-	g++ ./Programs/QuotientGroup.cpp -o ../qg
+	g++ ./Programs/QuotientGroup.cpp -o ./qg
