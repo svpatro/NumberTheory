@@ -6,15 +6,15 @@ Elementary Number Theory programs (that helps me on assignments).
 
 ### Makefile
 
-To create the binary for a program, run `make *` where * is the name of the program.
+To create the binary for a program, run `make *` where `*` is the name of the program.
 
 ---
 
-### Cayley Table:
+### Cayley Table
 
 This program will ask you to input 2 sets of numbers and will return the corresponding Cayley Table.
 
-### Multiplicative Inverses:
+### Multiplicative Inverses
 
 This program will ask you to input n for integers modulo n and return all multiplicative inverses of n.
 
