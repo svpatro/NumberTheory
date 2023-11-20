@@ -9,7 +9,7 @@ Elementary Number Theory programs (that helps me on assignments).
 [LagrangeTheorem](#lagranges-theorem) \
 [MultiplicativeInverses](#multiplicative-inverses) \
 [QuotientGroup](#quotient-group) \
-[SubgroupCheck](#subgroup-check) \
+[SubgroupCheck](#subgroup-check) 
 
 ---
 
