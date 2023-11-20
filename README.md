@@ -18,6 +18,10 @@ This program will ask you to input 2 sets of numbers and will return the corresp
 
 This program will ask you to input n for integers modulo n, a set of numbers (H) for the original coset, the amount of cosets being multiplied (A), and the coefficient of each coset (C). The program will return the set of integers modulo n, the original coset, the multiplied cosets (modulo n), and the non-distinct equivalent cosets.
 
+### Cyclic Subgroups
+
+This program will ask you to input a set of numbers to represent a group (G) and return all cyclic subgroups of G, if they exist.
+
 ### Lagrange's Theorem
 
 This program will ask you to input the order of group G and return all potential orders of subgroups.
