@@ -4,7 +4,7 @@ Elementary Number Theory programs (that helps me on assignments).
 
 ### Makefile
 
-To create the binary for a program, run `make *` where * is the name of the program (i.e. `make MultiplicativeInverses`)
+To create the binary for a program, run `make *` where * is the name of the program.
 
 ### Multiplicative Inverses:
 
