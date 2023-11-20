@@ -2,14 +2,14 @@
 
 Elementary Number Theory programs (that helps me on assignments). 
 
-[Make](#makefile)
-[CayleyTable](#cayley-table)
-[CosetMultiplier](#coset-multiplier)
-[CyclicSubgroups](#cyclic-subgroups)
-[LagrangeTheorem](#lagranges-theorem)
-[MultiplicativeInverses](#multiplicative-inverses)
-[QuotientGroup](#quotient-group)
-[SubgroupCheck](#subgroup-check)
+[Make](#makefile) \
+[CayleyTable](#cayley-table) \
+[CosetMultiplier](#coset-multiplier) \
+[CyclicSubgroups](#cyclic-subgroups) \
+[LagrangeTheorem](#lagranges-theorem) \
+[MultiplicativeInverses](#multiplicative-inverses) \
+[QuotientGroup](#quotient-group) \
+[SubgroupCheck](#subgroup-check) \
 
 ---
 
