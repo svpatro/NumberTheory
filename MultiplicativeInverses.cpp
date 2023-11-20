@@ -46,19 +46,19 @@ int main(){
         }
     }
 
-std::cout << std::endl;
-std::cout << "The elements of the set are: [ ";
+    std::cout << std::endl;
+    std::cout << "The elements of the set are: [ ";
 
-for (std::vector<int>::iterator it = multinv.begin(); it != multinv.end(); it++){
+    for (std::vector<int>::iterator it = multinv.begin(); it != multinv.end(); it++){
 
-    std::cout << *it << " ";
+        std::cout << *it << " ";
 
-}
+    }
 
-std::cout << "]" << std::endl;
+    std::cout << "]" << std::endl;
 
-std::cout << "The cardinality of the set is: " << count << std::endl;
+    std::cout << "The cardinality of the set is: " << count << std::endl;
 
-return 0;
+    return 0;
 
 }
