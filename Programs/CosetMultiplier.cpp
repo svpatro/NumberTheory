@@ -12,11 +12,9 @@ int main(){
     std::cout << "What is the size (order) of the original coset?: ";
     std::cin >> H_Size;
 
-    std::vector<int> d_cosets; // Number of distinct cosets
+    std::vector<int> d_cosets; // Vector of distinct cosets
 
     for (int i = 0; i < H_Size; i++){
-
-        
 
     }
 
