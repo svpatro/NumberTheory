@@ -38,8 +38,6 @@ This program will ask you to input the order of group G and return all potential
 
 This program will ask you to input n for integers modulo n and return all multiplicative inverses of n.
 
-$\mathbb{z} / n\mathbb{z} \ \forall n \in \mathbb{z}$
-
 ### Subgroup Check
 
 This program will ask you to input a set of numbers (A) as the group along with its operation and another set of numbers (B) as the potential subgroup. The program will return whether the B is a subgroup of A. 
