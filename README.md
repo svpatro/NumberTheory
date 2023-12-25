@@ -20,6 +20,12 @@ This will produce an executable named `main` using the gcc compiler and automati
 
 ---
 
+### Cleanup
+
+To remove executables, run `make clean`.
+
+---
+
 ### Cayley Table
 
 This program will ask you to input 2 sets of numbers and will return the corresponding Cayley Table.
