@@ -14,7 +14,7 @@ Elementary Number Theory programs (that helps me on assignments).
 
 ### Makefile
 
-To create the binary for a program, run `make AA`.
+To run the program, enter `make AA` while in the NumberTheory directory.
 
 This will produce an executable named `main` using the gcc compiler. 
 
