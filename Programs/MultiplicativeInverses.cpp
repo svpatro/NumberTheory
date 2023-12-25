@@ -5,6 +5,8 @@
 #include <vector>
 
 int main(){
+
+    system("clear");
     
     // Inquire user for modulus
 

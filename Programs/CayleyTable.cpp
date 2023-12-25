@@ -5,6 +5,8 @@
 
 int main(){
 
+    system("clear");
+
     int option = 0;
     
     std::cout << "What is the operation for the Cayley Table?" << std::endl;

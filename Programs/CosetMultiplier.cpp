@@ -4,6 +4,8 @@
 
 int main(){
 
+    system("clear");
+
     int n = 0; // Integers modulo n
     int H_Size = 0; // Subgroup size
 
