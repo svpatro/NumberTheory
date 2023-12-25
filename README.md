@@ -16,7 +16,7 @@ Elementary Number Theory programs (that helps me on assignments).
 
 To run the program, enter `make AA` while in the NumberTheory directory.
 
-This will produce an executable named `main` using the gcc compiler. 
+This will produce an executable named `main` using the gcc compiler and automatically run the program!
 
 ---
 
