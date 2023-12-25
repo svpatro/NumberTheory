@@ -14,7 +14,9 @@ Elementary Number Theory programs (that helps me on assignments).
 
 ### Makefile
 
-To create the binary for a program, run `make *` where `*` is the name of the program.
+To create the binary for a program, run `make AA`.
+
+This will produce an executable named `main` using the gcc compiler. 
 
 ---
 
