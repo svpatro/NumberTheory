@@ -22,15 +22,37 @@ int main(){
     std::cout << "Producing executable for: " << choice << std::endl;
     std::cout << "Loading... " << std::endl;
 
-    if (choice == 1){
+    switch (choice) {
 
-        system("make CayleyTable");
+        case 1:
 
-    }
+            system("make CayleyTable");
+            break;
 
-    if (choice == 4){
+        case 2:
 
-        system("make MultiplicativeInverses");
+            system("make CosetMultiplier");
+            break;
+
+        case 3:
+
+            system("make LagrangeTheorem");
+            break;
+
+        case 4:
+
+            system("make MultiplicativeInverses");
+            break;
+
+        case 5:
+
+            system("make QuotientGroup");
+            break;
+
+        case 6:
+
+            system("make SubgroupCheck");
+            break;
 
     }
 
