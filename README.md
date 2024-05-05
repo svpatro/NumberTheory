@@ -8,7 +8,8 @@ Elementary Number Theory programs (that helps me on assignments).
 [LagrangeTheorem](#lagranges-theorem) \
 [MultiplicativeInverses](#multiplicative-inverses) \
 [QuotientGroup](#quotient-group) \
-[SubgroupCheck](#subgroup-check) 
+[SubgroupCheck](#subgroup-check) \
+[Prime Abelian](#prime-abelian)
 
 ---
 
@@ -53,3 +54,7 @@ This program will ask you to input a set of numbers (A) as the group along with 
 ### Quotient Group
 
 This program will ask you input a set of numbers (A) as a group along with its operation and another set of numbers (B) as a subgroup representative. The program will return whether A/B is a valid quotient group.
+
+### Prime Abelian
+
+This program is also known as the [Greedy Algorithm for an Abelian Group](https://math.stackexchange.com/questions/3907804/greedy-algorithm-for-an-abelian-group) of Order P^n. 
